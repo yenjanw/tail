@@ -6,7 +6,7 @@ When we use standard tool [Ta-Lib](https://github.com/mrjbq7/ta-lib) to anysis t
 
 ## How to install?
 1. Install `cython`. You can find document [here](https://cython.readthedocs.io/en/latest/src/quickstart/install.html).  
-1. Download `tali_C.pyx` and `setup.py` in your folder.  
+1. Download `tail_C.pyx` and `setup.py` in your folder.  
 1. Terminal in the folder typing `python setup.py build_ext --inplace`
 
 ## How to use?
