@@ -1,5 +1,5 @@
-# tail
-Technical Analysis Incremental Library 
+# tail(Technical Analysis Incremental Library )
+
 
 ## What is this?
 When we use standard tool [Ta-Lib](https://github.com/mrjbq7/ta-lib) to anysis time series data in training AI model, I found it is too slow to train because Ta-Lib always compute data from data beginning. So I just try to write a simple code in cython to speed up the training.  
