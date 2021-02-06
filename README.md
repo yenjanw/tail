@@ -63,3 +63,5 @@ print(atr)
 1. ICHMOKU
 1. LLT
 1. WMA
+## More Information
+If you can read chinese, reference [here](https://yenjanw.medium.com/incremental-ta-lib-bdba0f6f0ac8)
